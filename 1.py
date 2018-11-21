@@ -3,7 +3,7 @@
 # Title: Most Basic Python3 HTTP Server                                  #
 # Author: Noah Wood                                                      #
 # Contact: https://www.linkedin.com/in/noah-w-429b06116/                 #
-# Project Page:https://github.com/JohnnyHobo/LinkedInArticles/1          #
+# Project Page: https://github.com/JohnnyHobo/LinkedInArticles/1.py      #
 ##########################################################################
 # This is free and unencumbered software released into the public domain.#
 #                                                                        #
